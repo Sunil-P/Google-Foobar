@@ -1,3 +1,5 @@
+/*Please be sure to comment out all print statements including unnecessary .print() calls*/
+
 package doomsdayfuel;
 
 import java.util.ArrayList;
